@@ -48,9 +48,11 @@ CC0: Public Domain
 
 ## Initialize Git (local)
 
-Inside `Student-Placement-Prediction/`, run:
 
-```bash
-git init
-git add .
-git commit -m "Initial commit: Student placement prediction project"
+## How to Run
+1. Clone the repo
+2. Open notebook in Jupyter
+3. Run all cells
+
+## 👤 Author
+Abhishek Negi
