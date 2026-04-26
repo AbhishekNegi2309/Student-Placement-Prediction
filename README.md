@@ -22,9 +22,8 @@ This project predicts whether a student will be placed based on academic and per
 - Key Insights:
   - Coding skill score had the highest importance (0.21)
   - Students with >2 internships had 30% higher placement rates
-
-## Project Structure
-Project structure
+```text
+Project Structure
 Student-Placement-Prediction/
 ├── data/ # (empty – dataset is loaded from Kaggle)
 ├── notebooks/
@@ -41,7 +40,7 @@ Student-Placement-Prediction/
   └── Train and Evaluation
 ├── LICENSE
 ├── README.md
-
+```
 
 License
 
