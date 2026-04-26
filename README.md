@@ -6,6 +6,7 @@ This project predicts whether a student will be placed based on academic and per
 
 ## Dataset
 - Source: Kaggle - Student Placement Prediction Dataset 2026
+- Dataset link: https://www.kaggle.com/datasets/sehaj1104/student-placement-prediction-dataset-2026
 
 ## Technologies Used
 - Python
